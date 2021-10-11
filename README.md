@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## ⚡ Technologies
-
+<!-- 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=javascript&color=6ad600)
 ![HTML5](https://img.shields.io/badge/-HTML5-414141?style=for-the-badge&logo=html5&color=6ad600)
 ![CSS3](https://img.shields.io/badge/-CSS3-414141?style=for-the-badge&logo=css3&color=6ad600)
@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-414141?style=for-the-badge&logo=git&color=6ad600)
 ![GitHub](https://img.shields.io/badge/-GitHub-414141?style=for-the-badge&logo=github&color=6ad600)
 ![VSCode](https://img.shields.io/badge/-VSCode-414141?style=for-the-badge&logo=vscode&color=6ad600)
-
+ -->
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=47vigen&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
