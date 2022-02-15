@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies -->
 <!-- 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=javascript&color=6ad600)
 ![HTML5](https://img.shields.io/badge/-HTML5-414141?style=for-the-badge&logo=html5&color=6ad600)
@@ -18,4 +18,4 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=47vigen&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=47vigen&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark) -->
 
-[instagram]:https://www.instagram.com/47vigen
+<!-- [instagram]:https://www.instagram.com/47vigen -->
