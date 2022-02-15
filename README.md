@@ -15,7 +15,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-414141?style=for-the-badge&logo=vscode&color=6ad600)
  -->
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=47vigen&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=47vigen&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=47vigen&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=47vigen&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark) -->
 
 [instagram]:https://www.instagram.com/47vigen
